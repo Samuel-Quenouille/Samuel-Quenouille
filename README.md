@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Quenouille</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-- 🔭 I’m currently studying on THP [https://www.thehackingproject.org/](https://www.thehackingproject.org/)
+- 🔭 I’m currently studying on <a href="https://www.thehackingproject.org/" />THP</a>
 
 - 🌱 I’m currently learning **React**
 
