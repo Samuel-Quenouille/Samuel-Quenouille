@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Samuel Quenouille</h1>
-<h3 align="center">A french web developer.</h3>
+<h1 align="center">Salut 👋, c'est Samuel Quenouille</h1>
+<h3 align="center">Développeur web Full Stack.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Me contacter :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/samuel-quenouille/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel quenouille" height="30" width="40" /></a>
 </p>
