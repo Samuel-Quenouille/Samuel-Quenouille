@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, moi c'est Samuel Quenouille</h1>
-<h3 align="center">Développeur web Full Stack.</h3>
+<h3 align="center">Développeur web Front End.</h3>
 
 <h3 align="left">Me contacter :</h3>
 <p align="left">
